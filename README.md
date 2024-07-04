@@ -3,7 +3,7 @@
 
 # Credits
 
-  * [1995ziig-nopunch](https://github.com/1995ziig/no-punch)
+  * [1995ziig-nopunch](https://github.com/fabixx021/1995ziig-nopunch)
 
   
 ## Informations
